@@ -1,0 +1,36 @@
+{
+  "name": "react-material-chat-ui",
+  "version": "1.0.0",
+  "description": "ReactJS component for Google's Material Design based chat UI",
+  "main": "buils/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanhachinu/react-material-chat-ui.git"
+  },
+  "author": "Harshit Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanhachinu/react-material-chat-ui/issues"
+  },
+  "homepage": "https://github.com/kanhachinu/react-material-chat-ui#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.0.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^4.11.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.5.1",
+    "eslint-watch": "^3.1.3",
+    "polished": "^1.9.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "styled-components": "^2.2.3"
+  }
+}
